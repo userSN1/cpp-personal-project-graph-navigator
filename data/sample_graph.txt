@@ -1,0 +1,13 @@
+# source target weight x1 y1 x2 y2
+Paris Rouen 1.5 0 0 1 1
+Paris Orleans 1.8 0 0 1 -1
+Rouen Amiens 1.2 1 1 2 2
+Orleans Lyon 3.0 1 -1 4 -2
+Amiens Reims 1.4 2 2 3 2
+Reims Dijon 2.0 3 2 5 1
+Dijon Lyon 1.8 5 1 4 -2
+Lyon Marseille 2.2 4 -2 7 -4
+Marseille Nice 2.0 7 -4 9 -3
+Dijon Nice 3.2 5 1 9 -3
+Orleans Clermont 2.5 1 -1 3 -3
+Clermont Lyon 1.2 3 -3 4 -2
